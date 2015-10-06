@@ -1,5 +1,7 @@
 # TwitchCommentWidget
 
+![](art/screenshot.png)
+
 Comment(damuku) scrolling widget for Twitch using electron.
 
 * Support OBS
