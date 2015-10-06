@@ -13,4 +13,5 @@ Comment(damuku) scrolling widget for Twitch using electron.
 
 ## Ref.
 
-* http://sunnyli.github.io/CommentCorePlayer/
+* http://sunnyli.github.io/CommentCorePlayer
+* https://github.com/chiruom/jquery.danmu.js
